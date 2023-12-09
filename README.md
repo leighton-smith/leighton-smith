@@ -1,6 +1,6 @@
 - I'm Leighton Smith!
-- I'm a Data Analyst
-- I'm passionate transforming data and telling its story with visualization.
+- I'm a Data Analyst💞️
+- I'm passionate about transforming data and telling its story through visualization.
 - I specialize in SQL and Tableau
 - Let's chat about how we can collaborate on a project!
 - 📫 You can reach me at smith.leighton015@gmail.com
